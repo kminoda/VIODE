@@ -1,2 +1,3 @@
 # VIODE
-This is a repository for the VIODE dataset. The download link should be updated.
+This is a repository for the VIODE (Visual-Inertial Odometry in Dynamic Environments) dataset.
+The dataset will be released upon acceptance.
