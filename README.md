@@ -3,7 +3,7 @@ This is a repository for the VIODE (Visual-Inertial Odometry in Dynamic Environm
 Koji Minoda, Fabian Schilling, Valentin Wüest, Dario Floreano, and Takehisa Yairi, "VIODE: A Simulated Dataset to Address the Challenges of Visual-Inertial Odometry in Dynamic Environments", IEEE Robotics and Automation Letters (RA-L), 2021.
 
 The overall documentation is available in the above RA-L paper. 
-The whole dataset is hosted on zotero. 
+The whole dataset is hosted on zenodo. 
 
 # Dataset Structure
 The visual-inertial sensor data is provided in ROS bag format. Each bag contains the following topics.
