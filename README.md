@@ -5,7 +5,7 @@ Koji Minoda, Fabian Schilling, Valentin Wüest, Dario Floreano, and Takehisa Yai
 
 The overall documentation is available in the above RA-L paper. 
 
-[Data download here](https://zenodo.org/record/4493401)
+[Data download here (A link to Zenodo)](https://zenodo.org/record/4493401)
 
 [YouTube link Here]
 
