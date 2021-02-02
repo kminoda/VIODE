@@ -4,7 +4,8 @@ This is a repository for the VIODE (Visual-Inertial Odometry in Dynamic Environm
 Koji Minoda, Fabian Schilling, Valentin Wüest, Dario Floreano, and Takehisa Yairi, "VIODE: A Simulated Dataset to Address the Challenges of Visual-Inertial Odometry in Dynamic Environments", IEEE Robotics and Automation Letters (RA-L), 2021.
 
 The overall documentation is available in the above RA-L paper. 
-The whole dataset is hosted on zenodo. 
+
+[Data download here](https://zenodo.org/record/4493401)
 
 [YouTube link Here]
 
@@ -24,9 +25,10 @@ The ex-/intrinsic parameters are the same as the ones with the RGB images.
 We also provide rgb_id.txt which contains the correspondence between object ID and RGB value in segmentation images.
 
 The other files are
-- calibration.txt
+- calibration.yaml
 - rgb_id.txt
 
-The calibration.txt provides extrinsic and intrinsic parameters of two cameras.
+The calibration.txt provides extrinsic and intrinsic parameters of two cameras. 
+Note that the format follows that of [VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion), one of the state-of-the-art VIO algorithms.
 The rgb_id.txt provides the correspondence between object ID and RGB value in segmentation images.
 
