@@ -22,7 +22,6 @@ The first two topics contain RGB image data. Since these are captured in the sim
 
 The next two topics are the ground truth semantic segmentation provided by AirSim. 
 The ex-/intrinsic parameters are the same as the ones with the RGB images. 
-We also provide rgb_id.txt which contains the correspondence between object ID and RGB value in segmentation images.
 
 The other files are
 - calibration.yaml
