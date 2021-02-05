@@ -19,7 +19,8 @@ The overall documentation is available in the above RA-L paper. If you use VIODE
 
 [Data download here (A link to Zenodo)](https://zenodo.org/record/4493401)
 
-[YouTube link Here]
+[![VIODE](http://img.youtube.com/vi/7C_0cDAA6Xw/0.jpg)](https://www.youtube.com/watch?v=7C_0cDAA6Xw "VIODE")
+
 
 # Dataset Structure
 The visual-inertial sensor data is provided in ROS bag format. Each bag contains the following topics.
