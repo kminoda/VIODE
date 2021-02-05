@@ -17,9 +17,17 @@ The overall documentation is available in the above RA-L paper. If you use VIODE
  }
 ```
 
+
+
+A YouTube video for an introduction to the VIODE dataset:  
+[![VIODE](http://img.youtube.com/vi/7C_0cDAA6Xw/0.jpg)](https://www.youtube.com/watch?v=7C_0cDAA6Xw "VIODE")
+
+
+# Dataset Link
+Main ROS bag files are uploaded on Zenodo:  
 [Data download here (A link to Zenodo)](https://zenodo.org/record/4493401)
 
-[![VIODE](http://img.youtube.com/vi/7C_0cDAA6Xw/0.jpg)](https://www.youtube.com/watch?v=7C_0cDAA6Xw "VIODE")
+The other two files can be downloaded from this repository.
 
 
 # Dataset Structure
