@@ -20,7 +20,7 @@ The overall documentation is available in the above RA-L paper. If you use VIODE
 
 
 A YouTube video for an introduction to the VIODE dataset:  
-[![VIODE](http://img.youtube.com/vi/7C_0cDAA6Xw/0.jpg)](https://www.youtube.com/watch?v=7C_0cDAA6Xw "VIODE")
+[![VIODE](http://img.youtube.com/vi/LlFTyQf_dlo/0.jpg)](https://youtu.be/LlFTyQf_dlo "VIODE")
 
 
 # Dataset Link
