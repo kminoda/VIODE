@@ -46,9 +46,11 @@ The ex-/intrinsic parameters are the same as the ones with the RGB images.
 
 The other files are
 - `calibration.yaml`
+- `cam0_pinhole.yaml` & `cam1_pinhole.yaml`
 - `rgb_id.txt`
+- `vehicle_ids_*.txt`
 
-The `calibration.txt` provides extrinsic and intrinsic parameters of two cameras. 
+The `calibration.yaml`, `cam0_pinhole.yaml`, and `cam1_pinhole.yaml` provide extrinsic and intrinsic parameters of two cameras. 
 Note that the format follows that of [VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion), one of the state-of-the-art VIO algorithms.
 The `rgb_id.txt` provides the correspondence between object ID and RGB value in segmentation images.
-
+The `vehicle_ids_*.txt` contains the correspondence between object ID and object name for each environment. Object name also indicates whether the vehicle is whether dynamic or static.
