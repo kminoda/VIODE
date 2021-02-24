@@ -42,7 +42,7 @@ body_T_cam1: !!opencv-matrix
 multiple_thread: 1
 
 #feature traker paprameters
-max_cnt: 150            # max feature number in feature tracking
+max_cnt: 120            # max feature number in feature tracking
 min_dist: 30            # min distance between two features 
 freq: 10                # frequence (Hz) of publish tracking result. At least 10Hz for good estimation. If set 0, the frequence will be same as raw image 
 F_threshold: 1.0        # ransac threshold (pixel)
@@ -55,10 +55,10 @@ max_num_iterations: 8   # max solver itrations, to guarantee real time
 keyframe_parallax: 10.0 # keyframe selection threshold (pixel)
 
 #imu parameters       The more accurate parameters you provide, the better performance
-acc_n: 0.1          # accelerometer measurement noise standard deviation. 
-gyr_n: 0.01         # gyroscope measurement noise standard deviation.     
-acc_w: 0.001        # accelerometer bias random work noise standard deviation.  
-gyr_w: 0.0001       # gyroscope bias random work noise standard deviation.     
+acc_n: 0.2          # accelerometer measurement noise standard deviation. 
+gyr_n: 0.05         # gyroscope measurement noise standard deviation.     
+acc_w: 0.02         # accelerometer bias random work noise standard deviation.  
+gyr_w: 4.0e-5       # gyroscope bias random work noise standard deviation.     
 g_norm: 9.81007     # gravity magnitude
 
 #unsynchronization parameters
