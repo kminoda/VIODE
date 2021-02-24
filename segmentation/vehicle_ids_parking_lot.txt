@@ -1,0 +1,9 @@
+id, name
+246, vehicle_dynamic_0
+247, vehicle_dynamic_1
+248, vehicle_dynamic_2
+249, vehicle_dynamic_3
+250, vehicle_dynamic_4
+251, vehicle_dynamic_5
+254, vehicle_static_0
+255, vehicle_static_1

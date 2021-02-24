@@ -1,0 +1,14 @@
+id, name
+241, vehicle_dynamic_0
+242, vehicle_dynamic_1
+243, vehicle_dynamic_2
+244, vehicle_dynamic_3
+245, vehicle_dynamic_4
+246, vehicle_dynamic_5
+247, vehicle_dynamic_6
+248, vehicle_dynamic_7
+249, vehicle_dynamic_8
+250, vehicle_dynamic_9
+251, vehicle_dynamic_10
+254, vehicle_static_0
+255, vehicle_static_1
