@@ -1,7 +1,7 @@
 # The VIODE dataset
 This is a repository for the VIODE (Visual-Inertial Odometry in Dynamic Environments) dataset described in the paper:
 
-Koji Minoda, Fabian Schilling, Valentin Wüest, Dario Floreano, and Takehisa Yairi, **VIODE: A Simulated Dataset to Address the Challenges of Visual-Inertial Odometry in Dynamic Environments**, IEEE Robotics and Automation Letters (RA-L), 2021. [PDF](notyet)
+Koji Minoda, Fabian Schilling, Valentin Wüest, Dario Floreano, and Takehisa Yairi, **VIODE: A Simulated Dataset to Address the Challenges of Visual-Inertial Odometry in Dynamic Environments**, IEEE Robotics and Automation Letters (RA-L), 2021. [PDF](https://ieeexplore.ieee.org/document/9351597)
 
 The overall documentation is available in the above RA-L paper. If you use VIODE in academic work, please cite:
 ```
