@@ -7,13 +7,13 @@ The overall documentation is available in the above RA-L paper. If you use VIODE
 ```
 @article{minodaRAL2021,
   title={{VIODE}: A Simulated Dataset to Address the Challenges of Visual-Inertial Odometry in Dynamic Environments},
-  author={Minoda, Koji, Schilling, Fabian, Wüest, Valentin, Floreano, Dario, and Yairi, Takehisa},
+  author={Minoda, Koji, and Schilling, Fabian, and W\"{u}est, Valentin, and Floreano, Dario, and Yairi, Takehisa},
   journal={IEEE Robotics and Automation Letters},
-  volume={},
-  number={},
-  pages={},
-  doi = {},
-  year={2021}
+  year={2021},
+  volume={6},
+  number={2},
+  pages={1343-1350},
+  doi={10.1109/LRA.2021.3058073}}
  }
 ```
 
